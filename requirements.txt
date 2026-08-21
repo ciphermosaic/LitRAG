@@ -1,0 +1,40 @@
+# LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# Embeddings and Reranking
+sentence-transformers
+torch
+transformers
+
+# Document Loaders
+pypdf
+unstructured
+python-docx
+beautifulsoup4
+lxml
+
+# LLM
+langchain-groq
+groq
+
+# Environment Variables
+python-dotenv
+
+# API / Deployment
+fastapi
+uvicorn
+
+# Evaluation
+ragas
+datasets
+
+# Utilities
+numpy
+pandas
+scikit-learn
