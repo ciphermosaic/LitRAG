@@ -1,0 +1,55 @@
+```gitignore
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# UV
+.uv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ChromaDB / Vector Store
+data/vector_store/
+chroma_db/
+
+# Local data
+data/pdfs/
+
+# Logs
+*.log
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ragas / Evaluation outputs
+evaluation_results/
+results/
+```
