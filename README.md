@@ -19,6 +19,7 @@ The project processes documents through ingestion, cleaning, chunking, embedding
 * Environment variable support
 * Built with Python and `uv`
 
+
 ## RAG Pipeline
 
 ```text
